@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Taking Souls"
-date:   2022-05-10 15:30:00 +0200
+date:   2022-05-09 15:30:00 +0200
 categories: personal
 ---
 I enjoy reading books that focus mainly on personal development or better understanding behaviour. I find it fascinating to explore the depths of the human spirit, the ability to better understand that unclear combination of physical and psychological factors that influence the interpretations and interactions between us as humans.
