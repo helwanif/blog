@@ -1,0 +1,3 @@
+to start locally
+
+execute in terminal: bundle exec jekyll serve
