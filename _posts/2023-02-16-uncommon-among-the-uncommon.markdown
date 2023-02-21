@@ -4,6 +4,7 @@ title:  "Uncommon among the uncommon"
 date:   2023-02-16 13:00:00 +0200
 categories: personal
 comments_id: 3
+excerpt: This is the post excerpt.
 ---
 It has been a while since I had a chance to write something new. Although I had lots of things going on simultaneously that required lots of attention and efforts, I should keep my posts more frequent... and to my surprise I am not the only one who wants that. 
 
