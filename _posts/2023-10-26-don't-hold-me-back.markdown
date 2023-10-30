@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Don't hold me back"
+date:   2023-12-26 20:00:00 +0200
+categories: personal
+comments_id: 8
+---
+I always wanted to be [uncommon among the uncommon](https://helwanif.github.io/blog/personal/2023/02/16/uncommon-among-the-uncommon.html) at work. Someone asked me recently what I mean when I say that, and my interpretation of such a goal is trying to achieve what others considered unachievable. By others, I don't mean regular people but other professionals of the same caliber of myself. These goals can be anything, from complex functionality to be implemented on tight schedule, something that someone labeled as impossible to do considering the circumstances, or simply put thinking outside the box to come up with a solution for a problem at hand. Ove the years I forgot details of different incidents where I tried to do that, failing to achieve the goal sometimes, while [taking souls](https://helwanif.github.io/blog/personal/2022/05/09/taking-souls.html) along the way when I succeeded.  
+
+Such a mentality has its own problems, especially in a context of a team: what does it mean when one of team member is pedaling ahead of others? what is the optimal course of action when such a high achiever is held back by others? is it a problem with the setup? is it a personal problem of having such a person in a team? what is the awaited reaction of such a person and his or her colleagues in such situation? I can go on and on adding more questions, unfortunately I have conflicting answers and opinions in response to these questions.
+
+I believe that being a member of a team revolves around giving back in different means and forms. And although I strongly believe in leading by example, I struggle to find the balance between hinting towards the right direction against force-feeding the detailed answer. I consider this a struggle because of the delicacy of such situation: I want to help but not too much help, it feels like taking care of bird while holding it strong enough not to kill it but also not to fall down or fly away.
+
+What I can't tolerate easily is the fact that pulling someone along the way prevents me from achieving what I want to achieve, when such a setup becomes so taxing that my personal goals are not met anymore. Even when it is my responsibility to bring everyone up to speed, this requires a certain level of dedication and devotion from everyone in the team to keep up and grow. In team setup everyone is supposed to do whatever they are capable of to move forward, each by his or her own capacity and capabilities. It is about the subjective effort that everyone puts into the team, and I need to trust that everyone is maxing out "subjectively" towards the goal, because that's what I'd personally do and therefore expect from everyone along the way.
+
+In any context I have a goal, and I'd follow the rules when aiming to achieve it, but I have no problem stepping out of my comfort zone when the existing rules stand short against my high goal. You need to keep along if you want to come with me, and I'll gladly help you if you want, but don't expect me to wait for you for long when I not confident that you are doing your best, because I'm dead sure I am. And that is something I won't compromise. 
